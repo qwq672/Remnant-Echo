@@ -76,11 +76,17 @@
 │   ├── 01-minecraft-legends.md
 │   └── 02-minecraft-dungeons.md
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
-│   ├── 00-planning-index.md               ← 规划总索引
+│   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
 │   ├── 01-spawn-point-design.md          ← 玩家出生点叙事设计
 │   ├── 02-story-timeline-plan.md         ← 故事时间线规划（六大纪元）
 │   ├── 03-player-journey-map.md          ← 玩家体验路径图（十阶段）
-│   └── 04-auto-sync-strategy.md          ← 自动同步方案（GitHub Action）
+│   ├── 04-auto-sync-strategy.md          ← 自动同步方案（GitHub Action）
+│   ├── 05-clue-book-system.md            ← 线索书系统设计（Patchouli）
+│   ├── 06-cognitive-lock-mechanism.md    ← 认知锁机制（advancement 配置）
+│   ├── 07-boss-narrative-binding.md      ← Boss 叙事绑定
+│   ├── 08-music-disc-unlock-order.md     ← 唱片解锁顺序与剧情对应
+│   ├── 09-village-loot-extension.md      ← 5 个原版 loot 表详细配置
+│   └── 10-custom-items-registry.md       ← L3 自定义物品登记表
 └── 99-source-index.md                     ← 完整来源索引（139 条 URL）
 ```
 
@@ -90,9 +96,9 @@
 
 - **章节数**：15
 - **来源页面总数**：133
-- **Markdown 文件总数**：40（含 5 个规划文档）
+- **Markdown 文件总数**：45（含 11 个规划文档）
 - **原文引用段落数**：约 1,400+ 条
-- **总大小**：约 588 KB
+- **总大小**：约 700 KB
 
 ---
 

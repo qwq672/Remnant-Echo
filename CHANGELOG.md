@@ -42,6 +42,27 @@
 - 允许的自定义内容：先民储藏室（材质基于原版石砖）、残破石碑（材质基于原版石砖衍生）、0 号唱片（材质基于原版唱片衍生）、自定义纪元名称（基于原版事件解读）
 - 禁止的自定义内容：全新 Boss（如守门人作为新生物）、新种族、新维度、新机制（如灵气值）
 
+### 新增（v0.3 之后）
+
+**新增 5 个规划文档**：
+- `planning/05-clue-book-system.md` — 线索书系统设计（Patchouli L3 自定义论证）
+- `planning/06-cognitive-lock-mechanism.md` — 认知锁机制（基于原版 advancement + tellraw 详细配置）
+- `planning/07-boss-narrative-binding.md` — Boss 叙事绑定（4 个原版 Boss 击杀触发记忆回放文本）
+- `planning/08-music-disc-unlock-order.md` — 唱片解锁顺序与剧情对应（22 张原版 + 0 号唱片 L3 自定义）
+- `planning/09-village-loot-extension.md` — 5 个原版 loot 表详细配置（5 份笔记内容设计 + Fabric API 注入）
+- `planning/10-custom-items-registry.md` — L3 自定义物品登记表（残破笔记 / 线索书 / 0 号唱片 全部已论证）
+
+**新增 L3 自定义物品**（已论证 + 已登记）：
+- 残破笔记（`remnant:tattered_note`）— `written_book` + CustomModelData，满足 4 项关联性 + 退化方案
+- 线索书（`patchouli:guide_book`）— 满足 5 项关联性 + 退化方案
+- 0 号唱片（`remnant:music_disc_0`）— `music_disc_13` + CustomModelData，满足 5 项关联性 + 退化方案
+
+### 关键设计决策（v0.4 · L3 登记制度）
+- 所有 L3 自定义必须论证「必要性」（L1/L2 不可行的原因）+「关联性」（至少 2 项关联性标准）
+- 所有 L3 自定义必须提供「退化方案」（失去模组时的行为）
+- 所有 L3 自定义必须记录到 `planning/10-custom-items-registry.md`
+- 永远禁止的 L3：新维度、新生物、新 Boss（作为新实体）、新种族、新数值系统
+
 ---
 
 ## [0.1.0] - 2026-09-18
