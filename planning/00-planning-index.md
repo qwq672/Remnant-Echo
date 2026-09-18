@@ -140,14 +140,23 @@ L3: 自定义是否满足以下两个条件？
 | 08 | [`08-music-disc-unlock-order.md`](./08-music-disc-unlock-order.md) | 唱片解锁顺序与剧情对应 | 🟡 v0.1 |
 | 09 | [`09-village-loot-extension.md`](./09-village-loot-extension.md) | 5 个原版 loot 表详细配置 | 🟡 v0.1 |
 | 10 | [`10-custom-items-registry.md`](./10-custom-items-registry.md) | L3 自定义物品登记表（论证 + 关联性 + 退化方案） | 🟡 v0.1 |
+| 11 | [`11-localization-strategy.md`](./11-localization-strategy.md) | 多语言支持策略（首发 zh_cn + en_us，v1.0 前 8 语言） | 🟡 v0.1 |
+| 12 | [`12-release-roadmap.md`](./12-release-roadmap.md) | 发布路线图（v0.1 ~ v1.0 全里程碑 + Gantt 图） | 🟡 v0.1 |
+| 13 | [`13-save-compatibility.md`](./13-save-compatibility.md) | 存档兼容性策略（升级 / 卸载 / 重装三场景） | 🟡 v0.1 |
+| 14 | [`14-trial-chamber-narrative.md`](./14-trial-chamber-narrative.md) | 试炼密室叙事（100% L1/L2，先民挑战设施） | 🟡 v0.1 |
+| 15 | [`15-netherite-enchantment-essence.md`](./15-netherite-enchantment-essence.md) | 下界合金 / 附魔本质叙事（维度稳定材料 + 灵魂能量注入） | 🟡 v0.1 |
+| 16 | [`16-worldview-overview.md`](./16-worldview-overview.md) | 面向读者的世界观总纲（三界同源 + 四大领域） | 🟡 v0.1 |
+| 17 | [`17-mod-introduction-copy.md`](./17-mod-introduction-copy.md) | 对外模组介绍文案（一句话 / 段落 / 完整 / FAQ / 媒体） | 🟡 v0.1 |
 
 ---
 
 ## 📅 后续将补充的规划文档（计划中）
 
-- `11-localization-strategy.md` — 多语言支持策略（用原版 `lang/` JSON 文件）
-- `12-release-roadmap.md` — 发布路线图（v0.1 ~ v1.0 详细里程碑）
-- `13-save-compatibility.md` — 存档兼容性策略（保证模组更新/卸载时不破坏存档）
+- `18-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
+- `19-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
+- `20-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
+
+> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，本节列表为后续待补。
 
 ---
 
@@ -167,3 +176,4 @@ L3: 自定义是否满足以下两个条件？
 | 2026-09-18 | v0.1 | 初稿，确立「补不是添」原则 | 项目方 |
 | 2026-09-18 | v0.2 | 细化为三级优先级（L1/L2/L3）与关联性标准 | 项目方 |
 | 2026-09-18 | v0.3 | 新增 L3 决策记录机制与判定示例；明确"永远禁止"清单 | 项目方 |
+| 2026-09-18 | v0.4 | 文档列表新增 11~17（localization / release-roadmap / save-compat / trial-chamber / netherite-enchant / worldview-overview / mod-introduction）；后续待补清单更新为 18~20 | 项目方 |

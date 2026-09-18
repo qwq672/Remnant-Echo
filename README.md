@@ -27,6 +27,7 @@
 ```
 .
 ├── README.md                              ← 本文件（主索引）
+├── BLUEPRINT.md                           ← 项目蓝图总览（整合版，五大原则 + 世界观 + 路线图）
 ├── 00-overview/                           ← 世界观与原版叙事总纲
 │   ├── 01-end-poem.md                     ← End Poem 全文（公共领域）
 │   ├── 02-end-poem-wikipedia.md           ← End Poem 维基百科背景
@@ -77,8 +78,8 @@
 │   └── 02-minecraft-dungeons.md
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
 │   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
-│   ├── 01-spawn-point-design.md          ← 玩家出生点叙事设计
-│   ├── 02-story-timeline-plan.md         ← 故事时间线规划（六大纪元）
+│   ├── 01-spawn-point-design.md           ← 玩家出生点叙事设计
+│   ├── 02-story-timeline-plan.md          ← 故事时间线规划（六大纪元）
 │   ├── 03-player-journey-map.md          ← 玩家体验路径图（十阶段）
 │   ├── 04-auto-sync-strategy.md          ← 自动同步方案（GitHub Action）
 │   ├── 05-clue-book-system.md            ← 线索书系统设计（Patchouli）
@@ -86,7 +87,14 @@
 │   ├── 07-boss-narrative-binding.md      ← Boss 叙事绑定
 │   ├── 08-music-disc-unlock-order.md     ← 唱片解锁顺序与剧情对应
 │   ├── 09-village-loot-extension.md      ← 5 个原版 loot 表详细配置
-│   └── 10-custom-items-registry.md       ← L3 自定义物品登记表
+│   ├── 10-custom-items-registry.md       ← L3 自定义物品登记表
+│   ├── 11-localization-strategy.md       ← 多语言支持策略
+│   ├── 12-release-roadmap.md             ← 发布路线图（v0.1 ~ v1.0 里程碑）
+│   ├── 13-save-compatibility.md         ← 存档兼容性策略
+│   ├── 14-trial-chamber-narrative.md     ← 试炼密室叙事
+│   ├── 15-netherite-enchantment-essence.md ← 下界合金 / 附魔本质叙事
+│   ├── 16-worldview-overview.md         ← 面向读者的世界观总纲
+│   └── 17-mod-introduction-copy.md       ← 对外模组介绍文案（多语言）
 └── 99-source-index.md                     ← 完整来源索引（139 条 URL）
 ```
 
@@ -94,11 +102,12 @@
 
 ## 📊 统计信息
 
-- **章节数**：15
+- **主题章节数**：15（`00-overview/` ~ `14-official-derivatives/`）
+- **规划文档数**：18（`planning/00-planning-index.md` ~ `planning/17-mod-introduction-copy.md`）
 - **来源页面总数**：133
-- **Markdown 文件总数**：45（含 11 个规划文档）
+- **Markdown 文件总数**：53（含 18 个规划文档 + 根目录 BLUEPRINT.md + 主索引 README.md + 99-source-index.md + CONTRIBUTING.md + PUSH_TO_GITHUB.md + CHANGELOG.md）
 - **原文引用段落数**：约 1,400+ 条
-- **总大小**：约 700 KB
+- **总大小**：约 1.1 MB
 
 ---
 
@@ -170,3 +179,4 @@
 ## 📅 更新历史
 
 - **2026-09-18**：初始版本，启动资料收集阶段。覆盖 15 个主题章节，133 个来源页面。推送到 `qwq672/ancient-echo` 仓库。
+- **2026-09-18（v0.2 资料完善）**：新增 `BLUEPRINT.md` 项目蓝图总览；新增 7 份规划文档（11-localization-strategy / 12-release-roadmap / 13-save-compatibility / 14-trial-chamber-narrative / 15-netherite-enchantment-essence / 16-worldview-overview / 17-mod-introduction-copy）；规划文档总数从 11 增至 18。
