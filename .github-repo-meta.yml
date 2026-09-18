@@ -1,0 +1,13 @@
+name: "Remnant / Echo Lore Repository"
+description: "Minecraft 原版故事观叙事模组资料汇编 - 基于 minecraft.net / minecraft.wiki / Wikipedia / MatPat Game Theory 的原文引用集"
+url: ""  # 待用户填入实际 GitHub 仓库 URL
+license: "CC-BY-4.0"
+tags:
+  - minecraft
+  - minecraft-lore
+  - modding
+  - reference
+  - documentation
+  - remnant-mod
+  - echo-mod
+visibility: "public"  # 推送到 GitHub 时建议设为 public，方便社区贡献

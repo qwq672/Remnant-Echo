@@ -1,0 +1,23 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Local notes / scratch
+_scratch/
+TODO.local.md
+notes/
+
+# Keep everything else (this is a documentation repo)
