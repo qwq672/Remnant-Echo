@@ -75,6 +75,12 @@
 ├── 14-official-derivatives/               ← 官方衍生作品
 │   ├── 01-minecraft-legends.md
 │   └── 02-minecraft-dungeons.md
+├── planning/                              ← 项目规划文档（设计决策与思考过程）
+│   ├── 00-planning-index.md               ← 规划总索引
+│   ├── 01-spawn-point-design.md          ← 玩家出生点叙事设计
+│   ├── 02-story-timeline-plan.md         ← 故事时间线规划（六大纪元）
+│   ├── 03-player-journey-map.md          ← 玩家体验路径图（十阶段）
+│   └── 04-auto-sync-strategy.md          ← 自动同步方案（GitHub Action）
 └── 99-source-index.md                     ← 完整来源索引（139 条 URL）
 ```
 
@@ -84,7 +90,7 @@
 
 - **章节数**：15
 - **来源页面总数**：133
-- **Markdown 文件总数**：35
+- **Markdown 文件总数**：40（含 5 个规划文档）
 - **原文引用段落数**：约 1,400+ 条
 - **总大小**：约 588 KB
 
