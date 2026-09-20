@@ -147,16 +147,20 @@ L3: 自定义是否满足以下两个条件？
 | 15 | [`15-netherite-enchantment-essence.md`](./15-netherite-enchantment-essence.md) | 下界合金 / 附魔本质叙事（维度稳定材料 + 灵魂能量注入） | 🟡 v0.1 |
 | 16 | [`16-worldview-overview.md`](./16-worldview-overview.md) | 面向读者的世界观总纲（三界同源 + 四大领域） | 🟡 v0.1 |
 | 17 | [`17-mod-introduction-copy.md`](./17-mod-introduction-copy.md) | 对外模组介绍文案（一句话 / 段落 / 完整 / FAQ / 媒体） | 🟡 v0.1 |
+| 18 | [`18-overworld-narrative.md`](./18-overworld-narrative.md) | 主世界叙事细化（遗迹/种族/事件矩阵 + 笔记 #15-#18 + 社区理论） | 🟡 v0.1 |
+| 19 | [`19-nether-narrative.md`](./19-nether-narrative.md) | 下界叙事细化（遗迹/种族/事件矩阵 + 笔记 #19-#22 + 12 个社区理论） | 🟡 v0.1 |
+| 20 | [`20-end-narrative.md`](./20-end-narrative.md) | 末地叙事 + 真结局核心（笔记 #23-#26 + End Poem 重新解读 + 13 个社区理论） | 🟡 v0.1 |
+| 21 | [`21-narrative-causality-map.md`](./21-narrative-causality-map.md) | 模组叙事因果链总图（含完整 Mermaid flowchart + 思维导图建议） | 🟡 v0.1 |
 
 ---
 
 ## 📅 后续将补充的规划文档（计划中）
 
-- `18-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
-- `19-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
-- `20-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
+- `22-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
+- `23-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
+- `24-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
 
-> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，本节列表为后续待补。
+> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，本节列表为后续待补。
 
 ---
 
@@ -177,3 +181,4 @@ L3: 自定义是否满足以下两个条件？
 | 2026-09-18 | v0.2 | 细化为三级优先级（L1/L2/L3）与关联性标准 | 项目方 |
 | 2026-09-18 | v0.3 | 新增 L3 决策记录机制与判定示例；明确"永远禁止"清单 | 项目方 |
 | 2026-09-18 | v0.4 | 文档列表新增 11~17（localization / release-roadmap / save-compat / trial-chamber / netherite-enchant / worldview-overview / mod-introduction）；后续待补清单更新为 18~20 | 项目方 |
+| 2026-09-18 | v0.5 | 文档列表新增 18~21（overworld-narrative / nether-narrative / end-narrative / narrative-causality-map）；后续待补清单更新为 22~24；新增 15-community-lore 社区传说汇编章节（基于 8 次真实 web 搜索） | 项目方 |

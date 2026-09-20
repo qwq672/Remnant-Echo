@@ -76,6 +76,12 @@
 ├── 14-official-derivatives/               ← 官方衍生作品
 │   ├── 01-minecraft-legends.md
 │   └── 02-minecraft-dungeons.md
+├── 15-community-lore/                     ← 社区传说汇编（SyntaxMine/MatPat/Reddit/End Poem 解读）
+│   ├── 00-index.md                        ← 章节索引 + 模组采纳状态总表
+│   ├── 01-syntaxmine-ancient-builders.md  ← SyntaxMine 古代建造者理论系列
+│   ├── 02-matpat-game-theory.md           ← MatPat Game Theory 系列
+│   ├── 03-reddit-forum-theories.md        ← Reddit / Forum 社区讨论汇编
+│   └── 04-end-poem-interpretations.md     ← End Poem 社区解读汇编
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
 │   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
 │   ├── 01-spawn-point-design.md           ← 玩家出生点叙事设计
@@ -94,7 +100,19 @@
 │   ├── 14-trial-chamber-narrative.md     ← 试炼密室叙事
 │   ├── 15-netherite-enchantment-essence.md ← 下界合金 / 附魔本质叙事
 │   ├── 16-worldview-overview.md         ← 面向读者的世界观总纲
-│   └── 17-mod-introduction-copy.md       ← 对外模组介绍文案（多语言）
+│   ├── 17-mod-introduction-copy.md       ← 对外模组介绍文案（多语言）
+│   ├── 18-overworld-narrative.md         ← 主世界叙事细化
+│   ├── 19-nether-narrative.md            ← 下界叙事细化
+│   ├── 20-end-narrative.md               ← 末地叙事 + 真结局核心
+│   └── 21-narrative-causality-map.md      ← 叙事因果链总图
+├── download/                              ← 生成的可视化资料
+│   └── mindmap/                           ← Mermaid 思维导图 PNG 渲染
+│       ├── remnant-echo-mindmap-1.png    ← 叙事因果链思维导图
+│       ├── remnant-echo-mindmap-2.png    ← 玩家体验路径思维导图
+│       ├── remnant-echo-mindmap-3.png    ← 资料结构思维导图
+│       ├── remnant-echo-mindmap-4.png    ← 设计原则思维导图
+│       ├── remnant-echo-mindmap-5.png    ← 真结局叙事链思维导图
+│       └── remnant-echo-mindmap-6.png    ← 多角色叙事网络思维导图
 └── 99-source-index.md                     ← 完整来源索引（139 条 URL）
 ```
 
@@ -102,12 +120,12 @@
 
 ## 📊 统计信息
 
-- **主题章节数**：15（`00-overview/` ~ `14-official-derivatives/`）
-- **规划文档数**：18（`planning/00-planning-index.md` ~ `planning/17-mod-introduction-copy.md`）
-- **来源页面总数**：133
-- **Markdown 文件总数**：53（含 18 个规划文档 + 根目录 BLUEPRINT.md + 主索引 README.md + 99-source-index.md + CONTRIBUTING.md + PUSH_TO_GITHUB.md + CHANGELOG.md）
+- **主题章节数**：16（`00-overview/` ~ `14-official-derivatives/` + `15-community-lore/` 社区传说汇编）
+- **规划文档数**：22（`planning/00-planning-index.md` ~ `planning/21-narrative-causality-map.md`）
+- **来源页面总数**：133 + 30+ 社区理论 URL
+- **Markdown 文件总数**：62（含 22 个规划文档 + 5 个社区传说文档 + 根目录 BLUEPRINT/MINDMAP + 主索引 README + 99-source-index + CONTRIBUTING + PUSH_TO_GITHUB + CHANGELOG + 15 个主题章节 × 2-3 文档）
 - **原文引用段落数**：约 1,400+ 条
-- **总大小**：约 1.1 MB
+- **总大小**：约 1.5 MB（含 6 张思维导图 PNG）
 
 ---
 
@@ -180,3 +198,4 @@
 
 - **2026-09-18**：初始版本，启动资料收集阶段。覆盖 15 个主题章节，133 个来源页面。推送到 `qwq672/ancient-echo` 仓库。
 - **2026-09-18（v0.2 资料完善）**：新增 `BLUEPRINT.md` 项目蓝图总览；新增 7 份规划文档（11-localization-strategy / 12-release-roadmap / 13-save-compatibility / 14-trial-chamber-narrative / 15-netherite-enchantment-essence / 16-worldview-overview / 17-mod-introduction-copy）；规划文档总数从 11 增至 18。
+- **2026-09-18（v0.3 三界叙事 + 社区传说 + 思维导图）**：新增 4 份三界叙事规划文档（18-overworld-narrative / 19-nether-narrative / 20-end-narrative / 21-narrative-causality-map）；新增 `15-community-lore/` 社区传说汇编章节（5 份文档，基于 8 次真实 web 搜索，覆盖 SyntaxMine/MatPat/Reddit/End Poem 解读）；新增 `MINDMAP.md` 项目思维导图（6 张 Mermaid mindmap，渲染为 PNG 存至 `download/mindmap/`）；规划文档总数从 18 增至 22。
