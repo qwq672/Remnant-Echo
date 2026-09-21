@@ -16,6 +16,7 @@
 | 02 | [`02-matpat-game-theory.md`](./02-matpat-game-theory.md) | MatPat Game Theory 系列（完整 Minecraft 时间线、末影龙不死理论、末影人=古代建造者末地分支） | 🟢 完成 |
 | 03 | [`03-reddit-forum-theories.md`](./03-reddit-forum-theories.md) | Reddit / Minecraft Forum 社区讨论（远古城市悲剧、苦力怕起源、海底废墟、终界螨等） | 🟢 完成 |
 | 04 | [`04-end-poem-interpretations.md`](./04-end-poem-interpretations.md) | End Poem 社区解读（Julian Gough 原文背景、双重灵魂对话、单义哲学解读） | 🟢 完成 |
+| 05 | [`05-chinese-community-theories.md`](./05-chinese-community-theories.md) | 国内社区传说汇编（MCBBS关闭说明+MC百科+萌娘百科+中文Wiki+知乎+贴吧+B站+国内剧情整合包） | 🟢 完成 |
 
 ---
 
@@ -26,6 +27,7 @@
 | ★★★★★ | **SyntaxMine 系列文章** | SyntaxMine 是近年最系统的 Minecraft lore 解读博客，文章质量高、论证严密、引用充分，被模组视为**社区理论的首要权威来源** | 直接引用，标注作者+文章名+URL+访问日期 |
 | ★★★★ | **MatPat Game Theory 系列** | MatPat / The Game Theorists 是 Minecraft 理论社区的奠基者，理论影响深远但部分推测已被后续原版更新推翻（如"末影龙不死"已被原版末影龙重生机制部分推翻） | 引用核心结论，标注理论版本+发布日期+URL |
 | ★★★ | **Reddit r/minecraftlore 与 r/GameTheorists 热门讨论** | 社区共识型讨论，多用户贡献观点，无单一作者 | 引用讨论串+核心观点+讨论日期 |
+| ★★★ | **国内中文社区（MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站/Reddit中文翻译版）** | 国内社区共识型讨论，多平台多用户贡献，跨语言共识 | 引用平台+核心观点+URL+访问日期 |
 | ★★ | **Minecraft Forum / Planet Minecraft 等论坛长帖** | 早期社区理论，部分已被时间检验，部分过时 | 引用楼主+发帖日期+URL |
 | ★ | **Minecraft Fanon Wiki / Fandom 用户创作页** | 用户创作内容，含较多主观设定，仅作"已知社区理论"参考，不作叙事依据 | 仅记录，不作为模组叙事依据 |
 
@@ -85,9 +87,11 @@
 
 ---
 
-## 🔍 真实搜索记录（2026-09-18）
+## 🔍 真实搜索记录（2026-09-18 + 2026-09-21）
 
 本章节的所有理论均通过 `z-ai function -n web_search` 真实搜索获得，搜索记录如下：
+
+### 国际社区搜索（2026-09-18，8 次）
 
 | 搜索关键词 | 搜索次数 | 主要发现 |
 |------------|----------|----------|
@@ -100,7 +104,18 @@
 | Minecraft villager illager origin same ancestor theory | 1 | SyntaxMine 村民/灾厄村民起源 + Minecraft Legends 官方衍生作设定 |
 | Minecraft ancient city warden sculk lore theory deep dark | 1 | SyntaxMine 监守者+sculk-as-cause theory + Minecraft Forum 远古城市悲剧 + Planet Minecraft Deep Dark 理论 |
 
-**总计 8 次真实搜索**，覆盖 SyntaxMine / MatPat / Reddit / Minecraft Forum / Planet Minecraft / Minecraft Fanon Wiki / Minecraft Legends 等多源。
+### 国内社区搜索（2026-09-21，6 次）
+
+| 搜索关键词 | 搜索次数 | 主要发现 |
+|------------|----------|----------|
+| MCBBS Minecraft 古代建造者 理论 lore | 1 | MCBBS 已关闭，找到 Reddit 中文翻译版 2019 年讨论 |
+| B站 Minecraft lore 末影人 起源 UP主 | 1 | 中文 Minecraft Wiki 末影人条目 + 维基百科"終界使者" |
+| 知乎 Minecraft 末影龙 守门人 设定 | 1 | 知乎 2015 年"末影人怕水=Burnie 儿子提议"开发故事 |
+| 中文 Minecraft Wiki mcim.cn 设定 古代城市 监守者 | 1 | 中文 Wiki + MC百科 + 萌娘百科"循声守卫"译名历史 |
+| 贴吧 Minecraft 三界同源 远古城市 假说 | 1 | 百度贴吧 minecraft 吧 + Reddit 2024 年中文翻译版"远古城市=跨维度收集工具" |
+| 国内 Minecraft 模组 叙事 故事 mod 设定 中文 | 1 | MC百科剧情整合包检索 + VNDialog/落雪长冬/Story Mode Remastered |
+
+**总计 14 次真实搜索**，覆盖国际社区（SyntaxMine/MatPat/Reddit/Minecraft Forum/Planet Minecraft/Minecraft Fanon Wiki）+ 国内社区（MCBBS历史/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站/Reddit中文翻译版/国内剧情整合包）。
 
 ---
 
@@ -126,3 +141,4 @@
 | 日期 | 版本 | 修订内容 | 修订者 |
 |------|------|----------|--------|
 | 2026-09-18 | v0.1 | 初稿，基于 8 次真实 web 搜索汇编社区理论，建立模组采纳状态总表（11 完全采纳 + 11 部分采纳 + 5 不采纳 + 3 待评估） | 项目方 |
+| 2026-09-21 | v0.2 | 新增 `05-chinese-community-theories.md` 国内社区传说汇编（基于 6 次真实搜索，覆盖 MCBBS历史/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站/Reddit中文翻译版/国内剧情整合包，含 3 完全采纳+3 部分采纳+3 不采纳 共 9 个国内社区理论）；总搜索次数从 8 增至 14 | 项目方 |
