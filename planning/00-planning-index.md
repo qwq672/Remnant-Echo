@@ -152,16 +152,17 @@ L3: 自定义是否满足以下两个条件？
 | 20 | [`20-end-narrative.md`](./20-end-narrative.md) | 末地叙事 + 真结局核心（笔记 #23-#26 + End Poem 重新解读 + 13 个社区理论） | 🟡 v0.1 |
 | 21 | [`21-narrative-causality-map.md`](./21-narrative-causality-map.md) | 模组叙事因果链总图（含完整 Mermaid flowchart + 思维导图建议） | 🟡 v0.1 |
 | 22 | [`22-design-questions-answers.md`](./22-design-questions-answers.md) | 设计问答：11 个核心问题讨论与建议（待项目方审核） | 🟡 v0.1 |
+| 23 | [`23-design-followups.md`](./23-design-followups.md) | 设计问答后续：重名查询+配乐重评+支线叙事建议 | 🟡 v0.1 |
 
 ---
 
 ## 📅 后续将补充的规划文档（计划中）
 
-- `23-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
-- `24-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
-- `25-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
+- `24-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
+- `25-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
+- `26-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
 
-> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22-design-questions-answers.md` 于 2026-09-21 完成，本节列表为后续待补。
+> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22-design-questions-answers.md` 与 `23-design-followups.md` 于 2026-09-21 完成，本节列表为后续待补。
 
 ---
 
@@ -184,3 +185,4 @@ L3: 自定义是否满足以下两个条件？
 | 2026-09-18 | v0.4 | 文档列表新增 11~17（localization / release-roadmap / save-compat / trial-chamber / netherite-enchant / worldview-overview / mod-introduction）；后续待补清单更新为 18~20 | 项目方 |
 | 2026-09-18 | v0.5 | 文档列表新增 18~21（overworld-narrative / nether-narrative / end-narrative / narrative-causality-map）；后续待补清单更新为 22~24；新增 15-community-lore 社区传说汇编章节（基于 8 次真实 web 搜索） | 项目方 |
 | 2026-09-21 | v0.6 | 文档列表新增 22（design-questions-answers，回应项目方 9-20 夜间提出的 11 个核心设计问题）；后续待补清单更新为 23~25 | 项目方 |
+| 2026-09-21 | v0.7 | 文档列表新增 23（design-followups，重名查询+配乐重评+支线叙事建议，基于 3 次真实 web 搜索）；后续待补清单更新为 24~26 | 项目方 |

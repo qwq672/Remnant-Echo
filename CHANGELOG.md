@@ -180,6 +180,29 @@
 - 项目方需审核 4 个关键决策：Q5 探险顺序、Q8 模组命名、Q10-c 规则树放弃、Q11 衍生作采纳范围
 - 审核通过后，建议将进入 01/02/03/17 等已存在规划文档的修订版本
 
+### 新增（v0.8 设计问答后续 · 2026-09-21 第二批）
+
+**新增设计问答后续文档**：
+- `planning/23-design-followups.md` — 基于项目方 9-21 对 22 文档的回复作进一步处理
+  - Q5 探险顺序修订版：项目方"ok随便"——✅ 接受确认，已与 03 路径一致无需修改
+  - Q8 模组命名：基于 3 次真实 web 搜索（Echo/Remnant/Pale）查询重名
+    - Echo：无重名 ✅ 首推
+    - Remnant：与 CurseForge "Remnant Bosses" 部分重名 ⚠️
+    - Pale：与 "Better Pale Garden" 部分相关 ⚠️
+    - 组合名候选：Echoes of the Ancients（备选）
+  - Q9 配乐重新评估：L1 优先原版（~70%）+ L2 原版组合（~15%）+ L3 自创配乐（~15%）
+    - 5 首 L3 自创配乐候选：M.'s Farewell / Pale Regret / Sculk Echo / Withering Wave / Colonial Echo
+    - 每首需通过 L3 必要性论证 + 关联性论证 + 退化方案
+    - 社区先例支持（LOTR Mod Music Packs / Story Mode OST / Antimo & Welles）
+  - Q11 衍生作采纳范围放宽：Minecraft Legends 猪灵入侵可作支线 / Minecraft Dungeons 末影之心可作彩蛋 Boss（需 L3 论证）；仍不新增维度
+  - 新增 Q12：建议创建 `lore-stories/` 章节，按生物（12 份）+场景（11 份）= 23 份支线叙事文档，按 v0.1~v0.6 分阶段实施
+
+### 关键设计决策（v0.8 设计问答后续 · 2026-09-21）
+- 模组命名倾向 Echo（待项目方最终确认）
+- 配乐策略从"100% L1 不新增音乐"调整为"L1/L2/L3 三级配乐"，允许 5 首 L3 自创配乐候选（每首需严格论证）
+- 衍生作采纳范围放宽，但仍受原则 0 "永远禁止"清单约束（不新增维度/不新增 Boss 实体）
+- 强烈推荐创建 `lore-stories/` 章节作生物/场景支线叙事细化，与 18/19/20 维度叙事互补
+
 ---
 
 ## [0.1.0] - 2026-09-18
