@@ -94,6 +94,20 @@
 | [`15-community-lore/04-end-poem-interpretations.md`](./15-community-lore/04-end-poem-interpretations.md) | End Poem 社区解读 | ★★★ |
 | [`15-community-lore/05-chinese-community-theories.md`](./15-community-lore/05-chinese-community-theories.md) | 国内社区传说汇编（含 MCBBS 关闭/苦力怕论坛/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站/Reddit 中文翻译版） | ★★★ |
 
+### 四、新版本更新汇编（16，资料权威性 ★★★★★）
+
+| 文档 | 版本 | 主题 | 模组关联度 |
+|------|------|------|------------|
+| [`16-version-updates/00-index.md`](./16-version-updates/00-index.md) | — | 章节索引 + 模组叙事关联分析 | — |
+| [`16-version-updates/01-minecraft-26.3-wilderness-bound.md`](./16-version-updates/01-minecraft-26.3-wilderness-bound.md) | 26.3 | 帐篷/干草床/废弃营地（2026-09-15） | ⭐⭐⭐ 中关联（大分裂后流浪者遗迹） |
+| [`16-version-updates/02-minecraft-26.2-chaos-cubed.md`](./16-version-updates/02-minecraft-26.2-chaos-cubed.md) | 26.2 | 硫磺洞穴/硫磺立方体/间歇泉（2026-06-16） | ⭐⭐⭐ 中关联（先民工业研究遗址） |
+| [`16-version-updates/03-minecraft-26.1-tiny-takeover.md`](./16-version-updates/03-minecraft-26.1-tiny-takeover.md) | 26.1 | 金蒲公英/幼年生物更新（2026-09-17） | ⭐⭐ 低关联（生命本源研究残留） |
+| [`16-version-updates/04-minecraft-1.21.11-nautilus-update.md`](./16-version-updates/04-minecraft-1.21.11-nautilus-update.md) | 1.21.11 | 鹦鹉螺/僵尸鹦鹉螺/骆驼尸壳 | ⭐⭐ 低关联（维度诅咒变体） |
+| [`16-version-updates/05-minecraft-1.21.9-copper-age.md`](./16-version-updates/05-minecraft-1.21.9-copper-age.md) | 1.21.9 | 铜器时代：铜盔甲/铜傀儡/铜箱子（2025-09-30） | ⭐⭐⭐⭐ 高关联（四色光谱+第五色铜绿） |
+| [`16-version-updates/06-minecraft-1.21.7-dennis-painting.md`](./16-version-updates/06-minecraft-1.21.7-dennis-painting.md) | 1.21.7 | A Minecraft Movie 致敬：Dennis 画/Lava Chicken 唱片（2025-06-30） | ⭐⭐ 低关联（唱片系统扩展） |
+| [`16-version-updates/07-minecraft-1.21.6-craftable-saddles.md`](./16-version-updates/07-minecraft-1.21.6-craftable-saddles.md) | 1.21.6 | 可合成鞍 + Amos Roddy 5 首新音乐（2025-05-13） | ⭐⭐ 低关联（配乐清单扩展） |
+| [`16-version-updates/08-minecraft-1.21.5-backend-changes.md`](./16-version-updates/08-minecraft-1.21.5-backend-changes.md) | 1.21.5 | 后端改动（模组端口适配） | ⭐ 不关联（仅影响工程化） |
+
 ### 四、项目规划文档（planning/，开发者用）
 
 #### 设计原则与索引

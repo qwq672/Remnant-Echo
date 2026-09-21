@@ -78,12 +78,23 @@
 ├── 14-official-derivatives/               ← 官方衍生作品
 │   ├── 01-minecraft-legends.md
 │   └── 02-minecraft-dungeons.md
-├── 15-community-lore/                     ← 社区传说汇编（SyntaxMine/MatPat/Reddit/End Poem 解读）
-│   ├── 00-index.md                        ← 章节索引 + 模组采纳状态总表
+├── 15-community-lore/                     ← 社区传说汇编（SyntaxMine/MatPat/Reddit/End Poem 解读/国内社区）
+│   ├── 00-index.md                        ← 章节索引 + 资料优先级 P1~P4 + 模组采纳状态总表
 │   ├── 01-syntaxmine-ancient-builders.md  ← SyntaxMine 古代建造者理论系列
 │   ├── 02-matpat-game-theory.md           ← MatPat Game Theory 系列
 │   ├── 03-reddit-forum-theories.md        ← Reddit / Forum 社区讨论汇编
-│   └── 04-end-poem-interpretations.md     ← End Poem 社区解读汇编
+│   ├── 04-end-poem-interpretations.md     ← End Poem 社区解读汇编
+│   └── 05-chinese-community-theories.md   ← 国内社区传说汇编（苦力怕论坛/MCBBS纪念版/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站）
+├── 16-version-updates/                     ← 新版本更新汇编（1.21.5+~26.3）
+│   ├── 00-index.md                        ← 章节索引 + 模组叙事关联分析
+│   ├── 01-minecraft-26.3-wilderness-bound.md  ← 帐篷/干草床/废弃营地（2026-09-15）
+│   ├── 02-minecraft-26.2-chaos-cubed.md        ← 硫磺洞穴/硫磺立方体/间歇泉（2026-06-16）
+│   ├── 03-minecraft-26.1-tiny-takeover.md      ← 金蒲公英/幼年生物更新（2026-09-17）
+│   ├── 04-minecraft-1.21.11-nautilus-update.md ← 鹦鹉螺/僵尸鹦鹉螺/骆驼尸壳
+│   ├── 05-minecraft-1.21.9-copper-age.md        ← 铜器时代：铜盔甲/铜傀儡/铜箱子（2025-09-30）
+│   ├── 06-minecraft-1.21.7-dennis-painting.md  ← A Minecraft Movie 致敬：Dennis 画/Lava Chicken 唱片（2025-06-30）
+│   ├── 07-minecraft-1.21.6-craftable-saddles.md ← 可合成鞍 + Amos Roddy 5 首新音乐（2025-05-13）
+│   └── 08-minecraft-1.21.5-backend-changes.md  ← 后端改动（模组端口适配）
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
 │   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
 │   ├── 01-spawn-point-design.md           ← 玩家出生点叙事设计
@@ -122,12 +133,12 @@
 
 ## 📊 统计信息
 
-- **主题章节数**：16（`00-overview/` ~ `14-official-derivatives/` + `15-community-lore/` 社区传说汇编）
-- **规划文档数**：22（`planning/00-planning-index.md` ~ `planning/21-narrative-causality-map.md`）
-- **来源页面总数**：133 + 30+ 社区理论 URL
-- **Markdown 文件总数**：62（含 22 个规划文档 + 5 个社区传说文档 + 根目录 BLUEPRINT/MINDMAP + 主索引 README + 99-source-index + CONTRIBUTING + PUSH_TO_GITHUB + CHANGELOG + 15 个主题章节 × 2-3 文档）
-- **原文引用段落数**：约 1,400+ 条
-- **总大小**：约 1.5 MB（含 6 张思维导图 PNG）
+- **主题章节数**：17（`00-overview/` ~ `14-official-derivatives/` + `15-community-lore/` 社区传说汇编 + `16-version-updates/` 新版本更新汇编）
+- **规划文档数**：26（`planning/00-planning-index.md` ~ `planning/25-design-followups-3.md`）
+- **来源页面总数**：133 + 30+ 社区理论 URL + 8 个新版本更新（17 次真实 web 搜索）
+- **Markdown 文件总数**：72（含 26 个规划文档 + 6 个社区传说文档 + 9 个新版本更新文档 + 根目录 BLUEPRINT/MINDMAP/GUIDE + 主索引 README + 99-source-index + CONTRIBUTING + PUSH_TO_GITHUB + CHANGELOG + 15 个主题章节 × 2-3 文档）
+- **原文引用段落数**：约 1,500+ 条
+- **总大小**：约 1.7 MB（含 6 张思维导图 PNG）
 
 ---
 
@@ -214,3 +225,8 @@
   - 新增 `GUIDE.md` 项目导航/目录（按读者身份提供入口 + 完整目录结构 + 资料优先级原则 P1/P2/P3/P4）
   - 真实搜索次数从 8 增至 17（国际 8 + 国内 6 + 国内补充 3）
   - 规划文档总数从 22 增至 26（含 4 份设计问答）
+- **2026-09-21（v1.3 新版本更新汇编）**：
+  - 新增 `16-version-updates/` 新版本更新章节（9 份文档），覆盖 Minecraft 1.21.5+ 至 26.3 共 8 个版本
+  - 基于 8 次真实 web 搜索（v0.4~v1.3 累计 25 次真实搜索）
+  - 含模组叙事关联分析：1.21.9 铜器时代（高关联⭐⭐⭐⭐）、26.3 荒野之缚/26.2 混沌立方（中关联⭐⭐⭐）、26.1/1.21.11/1.21.7/1.21.6（低关联⭐⭐）、1.21.5（不关联⭐）
+  - 关键发现：1.21.9 铜器时代强化模组"四色光谱+第五色（铜绿）"叙事；26.3 废弃营地可作"大分裂后流浪者遗迹"叙事载体；26.2 硫磺洞穴可作"先民工业研究遗址"叙事载体
