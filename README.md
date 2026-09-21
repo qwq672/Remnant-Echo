@@ -27,7 +27,9 @@
 ```
 .
 ├── README.md                              ← 本文件（主索引）
+├── GUIDE.md                               ← 项目导航/目录（按读者身份提供入口）
 ├── BLUEPRINT.md                           ← 项目蓝图总览（整合版，五大原则 + 世界观 + 路线图）
+├── MINDMAP.md                             ← 6 张思维导图（GitHub 原生 Mermaid 渲染）
 ├── 00-overview/                           ← 世界观与原版叙事总纲
 │   ├── 01-end-poem.md                     ← End Poem 全文（公共领域）
 │   ├── 02-end-poem-wikipedia.md           ← End Poem 维基百科背景
@@ -204,3 +206,11 @@
 - **2026-09-18**：初始版本，启动资料收集阶段。覆盖 15 个主题章节，133 个来源页面。推送到 `qwq672/ancient-echo` 仓库。
 - **2026-09-18（v0.2 资料完善）**：新增 `BLUEPRINT.md` 项目蓝图总览；新增 7 份规划文档（11-localization-strategy / 12-release-roadmap / 13-save-compatibility / 14-trial-chamber-narrative / 15-netherite-enchantment-essence / 16-worldview-overview / 17-mod-introduction-copy）；规划文档总数从 11 增至 18。
 - **2026-09-18（v0.3 三界叙事 + 社区传说 + 思维导图）**：新增 4 份三界叙事规划文档（18-overworld-narrative / 19-nether-narrative / 20-end-narrative / 21-narrative-causality-map）；新增 `15-community-lore/` 社区传说汇编章节（5 份文档，基于 8 次真实 web 搜索，覆盖 SyntaxMine/MatPat/Reddit/End Poem 解读）；新增 `MINDMAP.md` 项目思维导图（6 张 Mermaid mindmap，渲染为 PNG 存至 `download/mindmap/`）；规划文档总数从 18 增至 22。
+- **2026-09-21（v0.4~v1.2 设计问答 + 命名确认 + 国内社区传说 + GUIDE）**：
+  - 新增 4 份设计问答文档（22~25），覆盖 18 个核心设计问题（探险顺序/命名/配乐/支线叙事/Boss/预渲染视频/光影提示/粒子特效/命令工程化/叙事 NPC/动画）
+  - 模组命名最终确认为 **Remnant Echo**（避开 CurseForge "Remnant Bosses" 重名）
+  - 模组定位扩展为"补齐整个原版世界观"+"像电影一样的电影化碎片叙事"+"剧情不无聊"
+  - 新增 `15-community-lore/05-chinese-community-theories.md` 国内社区传说汇编（基于 6 次真实 web 搜索，覆盖 MCBBS 关闭说明+MC百科+萌娘百科+中文Wiki+知乎+贴吧+B站+Reddit中文翻译版+国内剧情整合包+苦力怕论坛+MCBBS纪念版+MineBBS）
+  - 新增 `GUIDE.md` 项目导航/目录（按读者身份提供入口 + 完整目录结构 + 资料优先级原则 P1/P2/P3/P4）
+  - 真实搜索次数从 8 增至 17（国际 8 + 国内 6 + 国内补充 3）
+  - 规划文档总数从 22 增至 26（含 4 份设计问答）
