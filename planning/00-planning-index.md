@@ -154,16 +154,17 @@ L3: 自定义是否满足以下两个条件？
 | 22 | [`22-design-questions-answers.md`](./22-design-questions-answers.md) | 设计问答：11 个核心问题讨论与建议（待项目方审核） | 🟡 v0.1 |
 | 23 | [`23-design-followups.md`](./23-design-followups.md) | 设计问答后续：重名查询+配乐重评+支线叙事建议 | 🟡 v0.1 |
 | 24 | [`24-design-followups-2.md`](./24-design-followups-2.md) | 设计问答第三批：命名确认 Remnant Echo+定位扩展+主线Boss+预渲染视频否决+光影提示+粒子特效 | 🟡 v0.1 |
+| 25 | [`25-design-followups-3.md`](./25-design-followups-3.md) | 设计问答第四批：命令工程化+叙事生物变体+动画策略 | 🟡 v0.1 |
 
 ---
 
 ## 📅 后续将补充的规划文档（计划中）
 
-- `25-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
-- `26-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
-- `27-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
+- `26-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
+- `27-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
+- `28-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
 
-> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22-design-questions-answers.md` 与 `23-design-followups.md` 与 `24-design-followups-2.md` 于 2026-09-21 完成，本节列表为后续待补。
+> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22/23/24/25-design-followups-2/3` 于 2026-09-21 完成，本节列表为后续待补。
 
 ---
 
@@ -188,3 +189,4 @@ L3: 自定义是否满足以下两个条件？
 | 2026-09-21 | v0.6 | 文档列表新增 22（design-questions-answers，回应项目方 9-20 夜间提出的 11 个核心设计问题）；后续待补清单更新为 23~25 | 项目方 |
 | 2026-09-21 | v0.7 | 文档列表新增 23（design-followups，重名查询+配乐重评+支线叙事建议，基于 3 次真实 web 搜索）；后续待补清单更新为 24~26 | 项目方 |
 | 2026-09-21 | v0.8 | 文档列表新增 24（design-followups-2，命名确认 Remnant Echo+定位扩展+主线Boss+预渲染视频否决+光影提示+粒子特效）；后续待补清单更新为 25~27；命名最终确认为 Remnant Echo | 项目方 |
+| 2026-09-21 | v0.9 | 文档列表新增 25（design-followups-3，命令工程化 E1/E2/E3+4 个 L3 自定义叙事 NPC+L1/L2/L3 三级动画策略）；后续待补清单更新为 26~28 | 项目方 |
