@@ -155,16 +155,17 @@ L3: 自定义是否满足以下两个条件？
 | 23 | [`23-design-followups.md`](./23-design-followups.md) | 设计问答后续：重名查询+配乐重评+支线叙事建议 | 🟡 v0.1 |
 | 24 | [`24-design-followups-2.md`](./24-design-followups-2.md) | 设计问答第三批：命名确认 Remnant Echo+定位扩展+主线Boss+预渲染视频否决+光影提示+粒子特效 | 🟡 v0.1 |
 | 25 | [`25-design-followups-3.md`](./25-design-followups-3.md) | 设计问答第四批：命令工程化+叙事生物变体+动画策略 | 🟡 v0.1 |
+| 26 | [`26-music-scenario-catalog.md`](./26-music-scenario-catalog.md) | 配乐场景清单：33 个场景（开篇/主世界遗迹/下界/末地/Boss战/真结局）+ Mermaid 总图 + L1/L2/L3 实现机制 | 🟡 v0.1 |
 
 ---
 
 ## 📅 后续将补充的规划文档（计划中）
 
-- `26-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
-- `27-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
-- `28-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
+- `27-testing-matrix.md` — 测试矩阵（功能 / 兼容性 / 多人 / 长存档测试）
+- `28-fabric-loader-selection.md` — 加载器选型论证（Fabric vs NeoForge）
+- `29-community-contribution-guide.md` — 社区贡献指南（翻译 PR 流程）
 
-> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22/23/24/25-design-followups-2/3` 于 2026-09-21 完成，本节列表为后续待补。
+> **注**：原计划的 `11-localization-strategy.md` / `12-release-roadmap.md` / `13-save-compatibility.md` 已于 2026-09-18 完成，后续 `18-21` 也于同日完成，`22/23/24/25-design-followups-2/3` 于 2026-09-21 完成，`26-music-scenario-catalog.md` 于 2026-09-21 完成（作为配乐场景清单），本节列表为后续待补。
 
 ---
 
@@ -190,3 +191,4 @@ L3: 自定义是否满足以下两个条件？
 | 2026-09-21 | v0.7 | 文档列表新增 23（design-followups，重名查询+配乐重评+支线叙事建议，基于 3 次真实 web 搜索）；后续待补清单更新为 24~26 | 项目方 |
 | 2026-09-21 | v0.8 | 文档列表新增 24（design-followups-2，命名确认 Remnant Echo+定位扩展+主线Boss+预渲染视频否决+光影提示+粒子特效）；后续待补清单更新为 25~27；命名最终确认为 Remnant Echo | 项目方 |
 | 2026-09-21 | v0.9 | 文档列表新增 25（design-followups-3，命令工程化 E1/E2/E3+4 个 L3 自定义叙事 NPC+L1/L2/L3 三级动画策略）；后续待补清单更新为 26~28 | 项目方 |
+| 2026-09-21 | v1.0 | 文档列表新增 26（music-scenario-catalog，配乐场景清单 33 个节点+Mermaid 总图+L1/L2/L3 实现机制+四色光谱对应表）；后续待补清单更新为 27~29 | 项目方 |
