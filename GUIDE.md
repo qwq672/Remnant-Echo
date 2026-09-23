@@ -108,6 +108,18 @@
 | [`16-version-updates/07-minecraft-1.21.6-craftable-saddles.md`](./16-version-updates/07-minecraft-1.21.6-craftable-saddles.md) | 1.21.6 | 可合成鞍 + Amos Roddy 5 首新音乐（2025-05-13） | ⭐⭐ 低关联（配乐清单扩展） |
 | [`16-version-updates/08-minecraft-1.21.5-backend-changes.md`](./16-version-updates/08-minecraft-1.21.5-backend-changes.md) | 1.21.5 | 后端改动（模组端口适配） | ⭐ 不关联（仅影响工程化） |
 
+### 五、剧情扩展资料（17，资料优先级 P1+P2）
+
+| 文档 | 主题 | 资料优先级 |
+|------|------|------------|
+| [`17-lore-extensions/00-index.md`](./17-lore-extensions/00-index.md) | 章节索引 + 长期任务清单 + 资料优先级原则 | — |
+| [`17-lore-extensions/01-mob-evolution-history.md`](./17-lore-extensions/01-mob-evolution-history.md) | 猪人→猪灵/僵尸猪人→僵尸猪灵/猪灵蛮兵/焦骸（Parched）演变史 | P1+P2 |
+| [`17-lore-extensions/02-creeper-origin-and-elements.md`](./17-lore-extensions/02-creeper-origin-and-elements.md) | 苦力怕起源（Notch 编程错误）+为何成为 Minecraft 元素 | P1 |
+| [`17-lore-extensions/03-herobrine-stream-rumor.md`](./17-lore-extensions/03-herobrine-stream-rumor.md) | Herobrine 流言起源（2010 4chan + Copeland/Patimuss 直播） | P2 |
+| [`17-lore-extensions/04-structure-origins.md`](./17-lore-extensions/04-structure-origins.md) | 主世界结构起源（试炼密室/古城/沙漠神殿/丛林神庙/废弃矿井/要塞/古迹废墟/废弃营地） | P1+P2 |
+| [`17-lore-extensions/05-dimension-origins.md`](./17-lore-extensions/05-dimension-origins.md) | 末地/下界起源+维度生物关系（含 Sky Dimension→The End 重命名） | P1+P2 |
+| [`17-lore-extensions/06-mob-behaviors-explained.md`](./17-lore-extensions/06-mob-behaviors-explained.md) | 15 个生物的特性解读（监守者/末影人/末影龙/凋灵/苦力怕/焦骸等）+7 大类整理 | P1+P2 |
+
 ### 四、项目规划文档（planning/，开发者用）
 
 #### 设计原则与索引

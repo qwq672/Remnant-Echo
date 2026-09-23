@@ -95,6 +95,14 @@
 │   ├── 06-minecraft-1.21.7-dennis-painting.md  ← A Minecraft Movie 致敬：Dennis 画/Lava Chicken 唱片（2025-06-30）
 │   ├── 07-minecraft-1.21.6-craftable-saddles.md ← 可合成鞍 + Amos Roddy 5 首新音乐（2025-05-13）
 │   └── 08-minecraft-1.21.5-backend-changes.md  ← 后端改动（模组端口适配）
+├── 17-lore-extensions/                     ← 剧情扩展资料（生物演变史/流言起源/结构维度起源/生物特性解读）
+│   ├── 00-index.md                        ← 章节索引 + 长期任务清单 + 资料优先级
+│   ├── 01-mob-evolution-history.md         ← 猪人→猪灵/僵尸猪人→僵尸猪灵/猪灵蛮兵/焦骸
+│   ├── 02-creeper-origin-and-elements.md   ← 苦力怕起源（Notch 编程错误）+为何成为 Minecraft 元素
+│   ├── 03-herobrine-stream-rumor.md        ← Herobrine 流言起源（2010 4chan+Copeland 直播）
+│   ├── 04-structure-origins.md             ← 主世界结构起源（试炼密室/古城/沙漠神殿等）
+│   ├── 05-dimension-origins.md            ← 末地/下界起源+维度生物关系
+│   └── 06-mob-behaviors-explained.md       ← 15 个生物的特性解读+7 大类整理
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
 │   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
 │   ├── 01-spawn-point-design.md           ← 玩家出生点叙事设计
@@ -133,12 +141,12 @@
 
 ## 📊 统计信息
 
-- **主题章节数**：17（`00-overview/` ~ `14-official-derivatives/` + `15-community-lore/` 社区传说汇编 + `16-version-updates/` 新版本更新汇编）
-- **规划文档数**：26（`planning/00-planning-index.md` ~ `planning/25-design-followups-3.md`）
-- **来源页面总数**：133 + 30+ 社区理论 URL + 8 个新版本更新（17 次真实 web 搜索）
-- **Markdown 文件总数**：72（含 26 个规划文档 + 6 个社区传说文档 + 9 个新版本更新文档 + 根目录 BLUEPRINT/MINDMAP/GUIDE + 主索引 README + 99-source-index + CONTRIBUTING + PUSH_TO_GITHUB + CHANGELOG + 15 个主题章节 × 2-3 文档）
-- **原文引用段落数**：约 1,500+ 条
-- **总大小**：约 1.7 MB（含 6 张思维导图 PNG）
+- **主题章节数**：18（`00-overview/` ~ `14-official-derivatives/` + `15-community-lore/` 社区传说汇编 + `16-version-updates/` 新版本更新汇编 + `17-lore-extensions/` 剧情扩展资料）
+- **规划文档数**：27（`planning/00-planning-index.md` ~ `planning/26-music-scenario-catalog.md`）
+- **来源页面总数**：133 + 30+ 社区理论 URL + 8 个新版本更新 + 8 个剧情扩展主题（33 次真实 web 搜索）
+- **Markdown 文件总数**：80（含 27 个规划文档 + 7 个社区传说文档 + 9 个新版本更新文档 + 7 个剧情扩展文档 + 根目录 BLUEPRINT/MINDMAP/GUIDE + 主索引 README + 99-source-index + CONTRIBUTING + PUSH_TO_GITHUB + CHANGELOG + 15 个主题章节 × 2-3 文档）
+- **原文引用段落数**：约 1,800+ 条
+- **总大小**：约 2.0 MB（含 6 张思维导图 PNG）
 
 ---
 
@@ -230,3 +238,9 @@
   - 基于 8 次真实 web 搜索（v0.4~v1.3 累计 25 次真实搜索）
   - 含模组叙事关联分析：1.21.9 铜器时代（高关联⭐⭐⭐⭐）、26.3 荒野之缚/26.2 混沌立方（中关联⭐⭐⭐）、26.1/1.21.11/1.21.7/1.21.6（低关联⭐⭐）、1.21.5（不关联⭐）
   - 关键发现：1.21.9 铜器时代强化模组"四色光谱+第五色（铜绿）"叙事；26.3 废弃营地可作"大分裂后流浪者遗迹"叙事载体；26.2 硫磺洞穴可作"先民工业研究遗址"叙事载体
+- **2026-09-21（v1.4 配乐场景清单 + v1.5 剧情扩展资料）**：
+  - 新增 `planning/26-music-scenario-catalog.md` 配乐场景清单（33 个配乐节点+Mermaid 总图+L1/L2/L3 实现机制+四色光谱对应表）
+  - 新增 `17-lore-extensions/` 剧情扩展资料章节（7 份文档），基于 8 次真实 web 搜索（累计 33 次）
+  - 覆盖项目方长期任务：猪人→猪灵演变史/苦力怕起源/Herobrine 流言/主世界结构起源/末地下界起源/15 个生物特性解读
+  - 关键发现：焦骸（Parched）是骷髅沙漠变种+免疫阳光+骆驼尸壳乘客；Herobrine 流言起源于 2010 年 4chan + Copeland/Patimuss 直播扩展；苦力怕=Notch 编程错误（猪模型高度宽度对调）；下界原版最初不存在+末地原概念是 Sky Dimension 重命名
+  - 真实搜索次数从 25 增至 33（国际 8 + 国内 6 + 国内补充 3 + 版本更新 8 + 剧情扩展 8）
