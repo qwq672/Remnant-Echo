@@ -63,6 +63,8 @@
 
 本章节的所有内容均通过 `z-ai function -n web_search` 真实搜索获得，搜索记录如下：
 
+### 第一批搜索（项目方长期任务，8 次）
+
 | 搜索关键词 | 搜索次数 | 主要发现 |
 |------------|----------|----------|
 | 焦骸 Minecraft Wiki 原版生物 | 1 | zh.minecraft.wiki 焦骸条目+百度百科确认原版生物 Parched |
@@ -74,7 +76,42 @@
 | Minecraft nether end dimension origin story how created lore | 1 | minecraft.net 下界简史 + minecraft.fandom 末地 + minecraft.wiki Sky Dimension 重命名 + syntaxmine.com 末影龙与末地 |
 | Minecraft mob behaviors explained 2026 lore warden ancient builders enderman | 1 | syntaxmine.com 完整时间线监守者解析 + minecraft-archive.fandom 末影人 |
 
-**总计 8 次真实搜索**，覆盖生物演变史/流言起源/苦力怕起源/猪灵关系/结构起源/维度起源/生物特性解读 7 大主题。
+### 第二批搜索（项目方 A+B 并行指示，8 次）
+
+| 搜索关键词 | 主要发现 |
+|------------|----------|
+| Parched minecraft wiki skeleton variant desert 1.21.11 | en.namu.wiki 确认 1.21.11+ 加入+沙漠+免疫阳光+虚弱箭 |
+| Minecraft spider cave spider behavior wiki difference | minecraftforum 2012 蜘蛛变种讨论+hypixel 掉落差异 |
+| Minecraft witch behavior potion wiki lore | minecraft.wiki/minecraft.fandom 女巫+minecraftstorymode Story Mode |
+| Minecraft illager family pillager vindicator evoker ravager vex relation | fruitservers.net 灾厄村民含女巫+scribd 劫掠兽重命名 |
+| Minecraft endermite behavior wiki origin ender pearl | mail.ltuceo MINECRAFT MOBESTIARY 末影螨生成机制 |
+| Minecraft guardian elder guardian behavior ocean monument wiki | facebook 每海底神殿 3 个远古守卫者 |
+| Minecraft phantom behavior wiki insomnia undead | minecraft.fandom/minecraft.wiki 幻翼不眠机制+minecraft-magic-and-monsters 不眠效果 |
+| Minecraft bee axolotl dolphin behavior passive mob wiki | minecraft.wiki 被动生物+scribd 蜜蜂+美西螈+海豚 |
+
+### 第三批搜索（项目方 9-21 第二指示，8 次）
+
+| 搜索关键词 | 主要发现 |
+|------------|----------|
+| Minecraft villager lore origin illager same ancestor ancient builders deep | tumgik 同人创作+ao3 fan fiction（资料有限，后续待补） |
+| Minecraft enderman origin deep lore ancient builders history teleport | minecraft.wiki Talk:The End Archive 病毒起源理论+tiktok 末影人起源理论 |
+| Minecraft zombie undead lore theory origin ancient builders deep | planetminecraft 2016 MC Theory Origin of the Undead 僵尸=玩家腐败版 |
+| Minecraft phantom insomnia lore theory meaning origin undead | screenrant MatPat 幻翼理论+reddit 幻翼生前是什么+dreamrays 理论 |
+| Minecraft biomes lore theory origin swamp desert jungle snowy taiga relation | rhmdb 群系探索 100 天+bananatic 群系说明+minecraftforum 1.7.3 雪原群系历史 |
+| Minecraft ocean monument elder guardian lore theory ancient builders deep | wiki.rschooltoday Mobestiary+dreamteam.fandom 远古守卫者击杀 |
+| Minecraft woodland mansion illager lore theory origin dark forest deep | youtube 灾厄村民深度视频+reddit 林地府邸与远古城市关联+minecraft.net 官方+minecraftforum 巨人传说 |
+| klpbbs 苦力怕论坛 Minecraft 故事 lore 设定 远古 先民 | klpbbs.com 论坛介绍+mcnav 导航+多平台介绍 |
+
+### 第四批搜索（项目方深度资料补充，4 次）
+
+| 搜索关键词 | 主要发现 |
+|------------|----------|
+| Minecraft enderman history ancient builders teleport origin theory | minecraft.wiki Talk:The End Archive 病毒理论+tiktok 起源理论 |
+| Minecraft woodland mansion fake end portal wool illager connection ancient city | minecraft.wiki/minecraft.fandom 假末地传送门密室+gaming.stackexchange 详细描述+minewiki 教程 |
+| Minecraft phantom matpat theory ender dragon undead origin dreamrays | （超时未获取，后续待补） |
+| minecraft biome lore theory how biomes formed ancient builders climate | lore.astroworldmc.com 古代建造者理论+researchgate 学术研究 |
+
+**总计 28 次真实搜索**（第一批 8 + 第二批 8 + 第三批 8 + 第四批 4），覆盖生物演变史/流言起源/苦力怕起源/结构起源/维度起源/生物特性解读/林地府邸深度/生物关系图 8 大主题。
 
 ---
 
@@ -94,3 +131,5 @@
 | 日期 | 版本 | 修订内容 | 修订者 |
 |------|------|----------|--------|
 | 2026-09-21 | v0.1 | 初稿，基于 8 次真实 web 搜索汇编剧情扩展资料，覆盖项目方长期任务清单的 10 个问题 | 项目方 |
+| 2026-09-21 | v0.2 | 扩展 06 文档至 22 个生物（新增 7 个生物特性解读）；焦骸精确信息验证（1.21.11+，沙漠+免疫阳光+虚弱箭+骆驼尸壳乘客） | 项目方 |
+| 2026-09-21 | v0.3 | 新增 08-woodland-mansion-deep（含假末地传送门密室关键发现+苍白花园关联+巨人传说+灾厄村民模仿先民文明）+09-mob-relationships（完整生物关系图+7 大类+敌对/友好/同源 Mermaid 图）；调整资料优先级原则（P1 升级含流传度高的玩家社区文章+冲突谨慎处理）；累计 28 次真实搜索 | 项目方 |
