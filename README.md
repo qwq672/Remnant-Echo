@@ -85,7 +85,7 @@
 │   ├── 03-reddit-forum-theories.md        ← Reddit / Forum 社区讨论汇编
 │   ├── 04-end-poem-interpretations.md     ← End Poem 社区解读汇编
 │   └── 05-chinese-community-theories.md   ← 国内社区传说汇编（苦力怕论坛/MCBBS纪念版/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站）
-├── 16-version-updates/                     ← 新版本更新汇编（1.21.5+~26.3）
+├── 16-version-updates/                     ← 新版本更新汇编（1.21.5+~26.3+Live 2026）
 │   ├── 00-index.md                        ← 章节索引 + 模组叙事关联分析
 │   ├── 01-minecraft-26.3-wilderness-bound.md  ← 帐篷/干草床/废弃营地（2026-09-15）
 │   ├── 02-minecraft-26.2-chaos-cubed.md        ← 硫磺洞穴/硫磺立方体/间歇泉（2026-06-16）
@@ -94,15 +94,21 @@
 │   ├── 05-minecraft-1.21.9-copper-age.md        ← 铜器时代：铜盔甲/铜傀儡/铜箱子（2025-09-30）
 │   ├── 06-minecraft-1.21.7-dennis-painting.md  ← A Minecraft Movie 致敬：Dennis 画/Lava Chicken 唱片（2025-06-30）
 │   ├── 07-minecraft-1.21.6-craftable-saddles.md ← 可合成鞍 + Amos Roddy 5 首新音乐（2025-05-13）
-│   └── 08-minecraft-1.21.5-backend-changes.md  ← 后端改动（模组端口适配）
-├── 17-lore-extensions/                     ← 剧情扩展资料（生物演变史/流言起源/结构维度起源/生物特性解读）
+│   ├── 08-minecraft-1.21.5-backend-changes.md  ← 后端改动（模组端口适配）
+│   └── 09-minecraft-live-2026-september.md     ← Minecraft Live 2026 9月场（冰群系/The Sift/新僵尸变种/Dungeons 2）
+├── 17-lore-extensions/                     ← 剧情扩展资料（生物演变史/流言起源/结构维度起源/生物特性解读/微动作设计）
 │   ├── 00-index.md                        ← 章节索引 + 长期任务清单 + 资料优先级
 │   ├── 01-mob-evolution-history.md         ← 猪人→猪灵/僵尸猪人→僵尸猪灵/猪灵蛮兵/焦骸
 │   ├── 02-creeper-origin-and-elements.md   ← 苦力怕起源（Notch 编程错误）+为何成为 Minecraft 元素
 │   ├── 03-herobrine-stream-rumor.md        ← Herobrine 流言起源（2010 4chan+Copeland 直播）
 │   ├── 04-structure-origins.md             ← 主世界结构起源（试炼密室/古城/沙漠神殿等）
 │   ├── 05-dimension-origins.md            ← 末地/下界起源+维度生物关系
-│   └── 06-mob-behaviors-explained.md       ← 15 个生物的特性解读+7 大类整理
+│   ├── 06-mob-behaviors-explained.md       ← 22 个生物的特性解读+7 大类整理
+│   ├── 08-woodland-mansion-deep.md         ← 林地府邸深度（假末地传送门密室+苍白花园关联）
+│   ├── 09-mob-relationships.md            ← 完整生物关系图（按维度分类+7 大类+敌对/友好/同源）
+│   ├── 10-mob-structure-mindmap.md        ← Minecraft 生物与建筑结构历史思维导图（2009-2026）
+│   ├── 11-legacy-mobs-items.md            ← 旧版本被移除/弃用的生物与物品（Rana/红宝石/Sky Dimension 等）
+│   └── 12-visual-audio-microaction.md     ← 视觉+听觉+微动作设计（25 个微动作场景+三位一体设计）
 ├── planning/                              ← 项目规划文档（设计决策与思考过程）
 │   ├── 00-planning-index.md               ← 规划总索引 + 顶层设计原则（L1/L2/L3）
 │   ├── 01-spawn-point-design.md           ← 玩家出生点叙事设计
@@ -244,3 +250,20 @@
   - 覆盖项目方长期任务：猪人→猪灵演变史/苦力怕起源/Herobrine 流言/主世界结构起源/末地下界起源/15 个生物特性解读
   - 关键发现：焦骸（Parched）是骷髅沙漠变种+免疫阳光+骆驼尸壳乘客；Herobrine 流言起源于 2010 年 4chan + Copeland/Patimuss 直播扩展；苦力怕=Notch 编程错误（猪模型高度宽度对调）；下界原版最初不存在+末地原概念是 Sky Dimension 重命名
   - 真实搜索次数从 25 增至 33（国际 8 + 国内 6 + 国内补充 3 + 版本更新 8 + 剧情扩展 8）
+- **2026-09-21（v1.6 生物特性解读扩展 + v1.7 林地府邸深度+生物关系图）**：
+  - 扩展 `17-lore-extensions/06-mob-behaviors-explained.md` 至 22 个生物（新增 7 节：蜘蛛/洞穴蜘蛛/女巫/灾厄村民家族/末影螨/守卫者/幻翼/被动生物）
+  - 新增 `17-lore-extensions/08-woodland-mansion-deep.md` 林地府邸深度（含假末地传送门密室关键发现+苍白花园关联+灾厄村民模仿先民文明）
+  - 新增 `17-lore-extensions/09-mob-relationships.md` 完整生物关系图（按维度分类+7 大类+敌对/友好/同源 Mermaid 图）
+  - 资料优先级原则调整：P1 升级含流传度高的玩家社区文章+冲突谨慎处理
+  - 真实搜索次数累计 49 次
+- **2026-09-21（v1.8 历史思维导图+旧版本生物+视觉听觉微动作+选项影响+主线支线+Live 2026 9月场）**：
+  - 新增 `17-lore-extensions/10-mob-structure-mindmap.md` Minecraft 生物与建筑结构历史思维导图（2009-2026 层层堆叠）
+  - 新增 `17-lore-extensions/11-legacy-mobs-items.md` 旧版本被移除/弃用的生物与物品（Rana/Beast Boy/Black Steve/Steve 怪物/红宝石/箭袋/Sky Dimension 等）
+  - 新增 `17-lore-extensions/12-visual-audio-microaction.md` 视觉+听觉+微动作设计（25 个微动作场景+三位一体设计示例）
+  - 新增 `planning/27-choice-impact-design.md` 选项影响范围设计（推荐选项 4：主要选项稍微改变主线+支线）
+  - 新增 `planning/28-main-side-quest-design.md` 主线（10 个）+支线（8 个）划分
+  - 新增 `16-version-updates/09-minecraft-live-2026-september.md` Minecraft Live 2026 9月场资讯（冰群系/The Sift/新僵尸变种/Dungeons 2，🟡 API 故障待补充）
+  - 模组定位扩展：视觉（粒子+光影）+听觉（配乐+音效）+文学（22 张笔记+M. 遗言）三位一体+微动作描述（25 个场景）
+  - 选项影响推荐选项 4（主要选项稍微改变主线+支线，与原则 0 兼容）
+  - 主线 10 节点+支线 8 个（其中 S4/S6/S8 为"主线必需的支线"）
+  - 旧版本生物 Rana 等解读为"先民人形生物改造实验失败产物"
