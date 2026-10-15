@@ -3,7 +3,7 @@
 > **状态**：🟡 设计讨论中
 > **对应模组版本**：v0.1（zh_cn + en_us 首发）→ v0.5（追加 ja_jp）→ v1.0（8 语言扩展）
 > **创建日期**：2026-09-18
-> **最后更新**：2026-09-18
+> **最后更新**：2026-09-21（v0.2 补充 Live 2026 9月场+The Sift 第四维度+模组命名确认 Remnant Echo）
 > **设计原则**：[原则 0 · L1/L2/L3 判定](./00-planning-index.md#原则-0优先原版实在没辙才自定义且必须与原版有关) · [原则 1 · 以原版世界观为主](./00-planning-index.md#原则-1以原版世界观为主)
 
 ---
@@ -531,3 +531,67 @@ CJK 字符在原版 Unicode 字体下的渲染宽度约为拉丁字符的 2 倍�
 | 日期 | 版本 | 修订内容 | 修订者 |
 |------|------|----------|--------|
 | 2026-09-18 | v0.1 | 初稿，确立 L1 多语言策略（原版 `lang/` JSON + Patchouli 原生语言目录），整合并扩展 [05-clue-book-system.md 第 5 节](./05-clue-book-system.md#5-叙事文本的本地化)；定义七类文本范围、命名规范、双源同步翻译流程、v0.1/v0.5/v1.0 三阶段路线图 | 项目方 |
+| 2026-09-21 | v0.2 | 补充：模组命名确认 Remnant Echo（影响所有 lang key 示例）+ Minecraft Live 2026 9月场新内容多语言管理（Ice Caves/The Sift 第四维度/新僵尸变种/Minecraft Dungeons II）+ "四界同源"叙事框架的多语言调整（v0.6+ 后启动）+ 11 文档纳入正式规划，详见 §13 | 项目方 |
+
+---
+
+## 13. 2026-09-21 补充：Minecraft Live 2026 9月场新内容的多语言管理
+
+### 13.1 新增需要多语言管理的内容
+
+按 [`16-version-updates/09-minecraft-live-2026-september`](../16-version-updates/09-minecraft-live-2026-september.md) Minecraft Live 2026 9月场资料，以下新内容需要纳入多语言管理：
+
+| 新内容 | 多语言管理范围 | 实施时机 |
+|--------|----------------|----------|
+| **Ice Caves（冰洞穴）** | 群系名+进入时的 tellraw 叙事文本 | v0.5+ 后 |
+| **The Sift（筛界）** | 第四维度名+进入时的 tellraw 叙事文本+维度相关所有字符串 | v0.6+ 后（待官方资料完整后） |
+| **新僵尸变种** | 生物名+遭遇时的 tellraw 叙事文本 | v0.5+ 后（待官方资料完整后） |
+| **Minecraft Dungeons II 设定** | 仅作文档参考，不纳入多语言管理（按原则 5） | v1.0 后 |
+
+### 13.2 "四界同源"叙事框架的多语言调整
+
+按 [`16-version-updates/09-minecraft-live-2026-september`](../16-version-updates/09-minecraft-live-2026-september.md) §9，模组原"三界同源"叙事框架需扩展为"四界同源"——这影响多语言管理的术语表。
+
+**术语调整**：
+
+| 原术语（三界） | 调整后术语（四界） | 多语言影响 |
+|----------------|---------------------|------------|
+| 三界同源 | 四界同源（含 The Sift） | zh_cn/en_us/ja_jp 等所有语言的"三界同源"key 需改为"四界同源" |
+| 三界遗迹 | 四界遗迹（含 The Sift 遗迹） | 同上 |
+| 三界后裔 | 四界后裔（含 The Sift 后裔，如有） | 同上 |
+
+**实施时机**：v0.6+ 后（The Sift 资料补充完整后启动）
+
+### 13.3 模组命名 Remnant Echo 的多语言影响
+
+按 [`24-design-followups-2`](./24-design-followups-2.md) §Q8 模组命名已确认为 **Remnant Echo**——影响所有 lang key 示例：
+
+| 原示例（Remnant / Echo） | 调整后示例（Remnant Echo） |
+|---------------------------|------------------------------|
+| `item.remnant.tattered_note` | `item.remnant_echo.tattered_note`（或保留 `remnant.` 前缀，因 Remnant Echo 是项目名而非命名空间） |
+| `advancements.remnant.lore.chapter_0` | 同上 |
+
+**协作者建议**：保留 `remnant.` 前缀作为命名空间（更短，避免与 Minecraft Dungeons II 的 `dungeons.` 命名空间冲突），但在文档中统一使用 "Remnant Echo" 作为项目名。这是命名空间与项目名的分离。
+
+### 13.4 多语言策略纳入正式规划的确认
+
+按项目方 2026-09-21 指示"把模组的多语言支持写进计划里"——本文档（[`planning/11-localization-strategy.md`](./11-localization-strategy.md)）已作为正式规划文档，纳入 [`00-planning-index`](./00-planning-index.md) 文档列表第 11 项，状态 🟡 v0.2。
+
+**实施时间表**：
+
+| 版本 | 多语言目标 | 实施 |
+|------|------------|------|
+| v0.1 | zh_cn + en_us 全覆盖 | 双源同步，项目方亲笔 |
+| v0.2~v0.4 | zh_cn + en_us 维护（新内容追加） | 项目方维护 |
+| v0.5 | + ja_jp（日文） | 项目方亲译+实测 CJK 字体 |
+| v0.6 | + The Sift 多语言管理（待官方资料完整后） | "四界同源"术语调整 |
+| v0.9 | + ko_kr/de_de/fr_fr/ru_ru/es_es（社区 PR） | 社区贡献+项目方审核 |
+| v1.0 | 8 语言全覆盖 | 正式发布 |
+
+### 13.5 与已有规划文档的关联
+
+- [`16-version-updates/09-minecraft-live-2026-september`](../16-version-updates/09-minecraft-live-2026-september.md) Minecraft Live 2026 9月场——本章节是其多语言管理部分
+- [`16-version-updates/10-minecraft-dungeons-ii`](../16-version-updates/10-minecraft-dungeons-ii.md) Minecraft Dungeons II——按原则 5 仅作参考，不纳入多语言
+- [`24-design-followups-2`](./24-design-followups-2.md) §Q8 模组命名 Remnant Echo——影响所有 lang key 命名空间
+- [`02-story-timeline-plan`](./02-story-timeline-plan.md) "三界同源"叙事——v0.6+ 后调整为"四界同源"
+- [`17-lore-extensions/05-dimension-origins`](../17-lore-extensions/05-dimension-origins.md) 末地/下界起源——v0.6+ 后补充 The Sift 起源
