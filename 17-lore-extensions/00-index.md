@@ -22,6 +22,16 @@
 | 05 | [`05-dimension-origins.md`](./05-dimension-origins.md) | 末地/下界起源：维度怎么出现+后续生物与维度关系 | 🟢 完成 |
 | 06 | [`06-mob-behaviors-explained.md`](./06-mob-behaviors-explained.md) | 生物特性解读：根据最新版本特性解读为什么会有这些特性 | 🟢 完成 |
 | 07 | [`07-mob-relationships.md`](./07-mob-relationships.md) | 生物之间的关系图：各生物与各生物的关系 | 🟡 待补 |
+| 08 | [`08-woodland-mansion-deep.md`](./08-woodland-mansion-deep.md) | 林地府邸深度考据（假末地传送门密室+苍白花园关联+巨人传说+灾厄村民模仿先民文明） | 🟢 完成 |
+| 09 | [`09-mob-relationships.md`](./09-mob-relationships.md) | 完整生物关系图+7 大类+敌对/友好/同源 Mermaid 图 | 🟢 完成 |
+| 10 | [`10-mob-structure-mindmap.md`](./10-mob-structure-mindmap.md) | 生物-结构关系思维导图 | 🟢 完成 |
+| 11 | [`11-legacy-mobs-items.md`](./11-legacy-mobs-items.md) | 旧版本生物与物品（已移除/弃用，含 Rana/Beast Boy/Black Steve/Steve/Monster/Indev 测试生物） | 🟢 完成 |
+| 12 | [`12-visual-audio-microaction.md`](./12-visual-audio-microaction.md) | 视觉/听觉/微动作四位一体设计 | 🟢 完成 |
+| 13 | [`13-urban-legends-myths.md`](./13-urban-legends-myths.md) | Minecraft 都市传说与未使用特性汇编（Herobrine/Entity 303/Null/White Enderman 等 12 项） | 🟢 完成 |
+| 14 | [`14-complete-mob-version-history.md`](./14-complete-mob-version-history.md) | Minecraft 所有版本所有生物完整历史 | 🟢 完成 |
+| 15 | [`15-cut-unused-features.md`](./15-cut-unused-features.md) | 废弃/未实现/已移除特性汇编（Removed/Unused/Mentioned features + Sky Dimension + Red Dragon + Far Lands + Builder 私有版实体） | 🟢 完成 |
+| 16 | [`16-mob-vote-losers.md`](./16-mob-vote-losers.md) | Mob Vote 落选者完整汇编（2017-2023 + 2026 复活投票，含 Copper Golem 复活+Friends&Foes mod 复刻） | 🟢 完成 |
+| 17 | [`17-new-2025-2026-content.md`](./17-new-2025-2026-content.md) | 2025-2026 新版本内容考据（The Sift 第四维度+Ice Caves+Wilderness Bound+Chaos Cubed+Copper Age 等 9 个版本） | 🟢 完成 |
 
 ---
 
@@ -133,3 +143,4 @@
 | 2026-09-21 | v0.1 | 初稿，基于 8 次真实 web 搜索汇编剧情扩展资料，覆盖项目方长期任务清单的 10 个问题 | 项目方 |
 | 2026-09-21 | v0.2 | 扩展 06 文档至 22 个生物（新增 7 个生物特性解读）；焦骸精确信息验证（1.21.11+，沙漠+免疫阳光+虚弱箭+骆驼尸壳乘客） | 项目方 |
 | 2026-09-21 | v0.3 | 新增 08-woodland-mansion-deep（含假末地传送门密室关键发现+苍白花园关联+巨人传说+灾厄村民模仿先民文明）+09-mob-relationships（完整生物关系图+7 大类+敌对/友好/同源 Mermaid 图）；调整资料优先级原则（P1 升级含流传度高的玩家社区文章+冲突谨慎处理）；累计 28 次真实搜索 | 项目方 |
+| 2026-10-19 | v0.4 | 新增 15-cut-unused-features（废弃/未实现/已移除特性汇编，基于 5 次 web 搜索+3 次 WebFetch，含 Sky Dimension+Red Dragon+Far Lands+Builder 私有版实体）+16-mob-vote-losers（Mob Vote 落选者完整汇编，基于 4 次 web 搜索，含 2017-2023+2026 复活投票+Copper Golem 复活+Friends&Foes mod 复刻）+17-new-2025-2026-content（2025-2026 新版本内容考据，基于 4 次 web 搜索+1 次 WebFetch，含 The Sift 第四维度+Ice Caves+Wilderness Bound+Chaos Cubed+Copper Age 等 9 个版本）；累计搜索次数从 28 增至 41 | 项目方 |

@@ -17,6 +17,8 @@
 | 03 | [`03-reddit-forum-theories.md`](./03-reddit-forum-theories.md) | Reddit / Minecraft Forum 社区讨论（远古城市悲剧、苦力怕起源、海底废墟、终界螨等） | 🟢 完成 |
 | 04 | [`04-end-poem-interpretations.md`](./04-end-poem-interpretations.md) | End Poem 社区解读（Julian Gough 原文背景、双重灵魂对话、单义哲学解读） | 🟢 完成 |
 | 05 | [`05-chinese-community-theories.md`](./05-chinese-community-theories.md) | 国内社区传说汇编（MCBBS关闭说明+MC百科+萌娘百科+中文Wiki+知乎+贴吧+B站+国内剧情整合包） | 🟢 完成 |
+| 06 | [`06-chinese-deepdive.md`](./06-chinese-deepdive.md) | 国内社区深度考据汇编（苦力怕论坛深黯古城考据+百度百家号第四维度+B站远古城市考据+知乎古代建造者假说，25 项完全采纳观点） | 🟢 完成 |
+| 07 | [`07-creepypasta-extended.md`](./07-creepypasta-extended.md) | 都市传说扩展汇编（Don't look at the moon 2021+SCP-4335+Enderman=Farlanders+Ravagers=变异村民+Giant Alex 详细） | 🟢 完成 |
 
 ---
 
@@ -163,3 +165,4 @@
 |------|------|----------|--------|
 | 2026-09-18 | v0.1 | 初稿，基于 8 次真实 web 搜索汇编社区理论，建立模组采纳状态总表（11 完全采纳 + 11 部分采纳 + 5 不采纳 + 3 待评估） | 项目方 |
 | 2026-09-21 | v0.2 | 新增 `05-chinese-community-theories.md` 国内社区传说汇编（基于 6 次真实搜索，覆盖 MCBBS历史/MC百科/萌娘百科/中文Wiki/知乎/贴吧/B站/Reddit中文翻译版/国内剧情整合包，含 3 完全采纳+3 部分采纳+3 不采纳 共 9 个国内社区理论）；总搜索次数从 8 增至 14 | 项目方 |
+| 2026-10-19 | v0.3 | 新增 `06-chinese-deepdive.md`（国内社区深度考据，基于 5 次真实搜索，覆盖苦力怕论坛深黯古城考据+百度百家号第四维度+B站远古城市考据+知乎古代建造者假说两极化态度，含 25 项完全采纳观点）+ `07-creepypasta-extended.md`（都市传说扩展，基于 3 次真实搜索，含 Don't look at the moon 2021+SCP-4335+Enderman=Farlanders+Ravagers=变异村民+Giant Alex 详细，共 3 项完全采纳+2 项部分采纳）；总搜索次数从 14 增至 22 | 项目方 |
