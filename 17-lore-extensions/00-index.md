@@ -32,6 +32,10 @@
 | 15 | [`15-cut-unused-features.md`](./15-cut-unused-features.md) | 废弃/未实现/已移除特性汇编（Removed/Unused/Mentioned features + Sky Dimension + Red Dragon + Far Lands + Builder 私有版实体） | 🟢 完成 |
 | 16 | [`16-mob-vote-losers.md`](./16-mob-vote-losers.md) | Mob Vote 落选者完整汇编（2017-2023 + 2026 复活投票，含 Copper Golem 复活+Friends&Foes mod 复刻） | 🟢 完成 |
 | 17 | [`17-new-2025-2026-content.md`](./17-new-2025-2026-content.md) | 2025-2026 新版本内容考据（The Sift 第四维度+Ice Caves+Wilderness Bound+Chaos Cubed+Copper Age 等 9 个版本） | 🟢 完成 |
+| 18 | [`18-the-sift-deepdive.md`](./18-the-sift-deepdive.md) | The Sift 第四维度深度考据（Singer+Echo Golem+Soul block+Twisted Warden+Illager High Council+《The Rift》256 页小说+v0.6+ 笔记 #27-#30 设计草案） | 🟢 完成 |
+| 19 | [`19-end-biome-history.md`](./19-end-biome-history.md) | 末地群系开发史（5 个末地群系+Sky Dimension 转化史+1.9 末地扩展+1.13 群系 ID 重命名） | 🟢 完成 |
+| 20 | [`20-version-development-stories.md`](./20-version-development-stories.md) | 重大版本开发过程汇编（1.9 Combat Update 争议+1.15 Buzzy Bees+1.20 Trails & Tales+1.10-1.21 完整版本时间线） | 🟢 完成 |
+| 21 | [`21-c418-music-disc-stories.md`](./21-c418-music-disc-stories.md) | C418 唱片创作背景故事（22 张原版唱片+C418/Lena Raine/Aaron Cherof 作曲家+"13→11→5"数字递减+"far/ward/otherside/Creator/Relic/Tears/Precipice"音乐密码） | 🟢 完成 |
 
 ---
 
@@ -144,3 +148,4 @@
 | 2026-09-21 | v0.2 | 扩展 06 文档至 22 个生物（新增 7 个生物特性解读）；焦骸精确信息验证（1.21.11+，沙漠+免疫阳光+虚弱箭+骆驼尸壳乘客） | 项目方 |
 | 2026-09-21 | v0.3 | 新增 08-woodland-mansion-deep（含假末地传送门密室关键发现+苍白花园关联+巨人传说+灾厄村民模仿先民文明）+09-mob-relationships（完整生物关系图+7 大类+敌对/友好/同源 Mermaid 图）；调整资料优先级原则（P1 升级含流传度高的玩家社区文章+冲突谨慎处理）；累计 28 次真实搜索 | 项目方 |
 | 2026-10-19 | v0.4 | 新增 15-cut-unused-features（废弃/未实现/已移除特性汇编，基于 5 次 web 搜索+3 次 WebFetch，含 Sky Dimension+Red Dragon+Far Lands+Builder 私有版实体）+16-mob-vote-losers（Mob Vote 落选者完整汇编，基于 4 次 web 搜索，含 2017-2023+2026 复活投票+Copper Golem 复活+Friends&Foes mod 复刻）+17-new-2025-2026-content（2025-2026 新版本内容考据，基于 4 次 web 搜索+1 次 WebFetch，含 The Sift 第四维度+Ice Caves+Wilderness Bound+Chaos Cubed+Copper Age 等 9 个版本）；累计搜索次数从 28 增至 41 | 项目方 |
+| 2026-10-19 | v0.5 | 新增 18-the-sift-deepdive（The Sift 深度考据，基于 4 次 web 搜索+2 次 WebFetch，含 Singer+Echo Golem+Soul block+Twisted Warden+Illager High Council+《The Rift》256 页小说+v0.6+ 笔记 #27-#30 完整设计草案+15 项核心叙事资源完全采纳）+19-end-biome-history（末地群系开发史，含 5 个末地群系+Sky Dimension 转化史+1.9 末地扩展+1.13 群系 ID 重命名）+20-version-development-stories（1.9 Combat Update 争议+1.15 Buzzy Bees+1.20 Trails & Tales 开发过程+1.10-1.21 完整版本时间线）+21-c418-music-disc-stories（22 张原版唱片+C418/Lena Raine/Aaron Cherof 作曲家+"13→11→5"数字递减+"far/ward/otherside/Creator/Relic/Tears/Precipice"音乐密码+12 项核心叙事资源完全采纳）；累计搜索次数从 41 增至 50 | 项目方 |
