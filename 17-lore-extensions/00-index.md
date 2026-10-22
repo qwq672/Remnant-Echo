@@ -36,6 +36,7 @@
 | 19 | [`19-end-biome-history.md`](./19-end-biome-history.md) | 末地群系开发史（5 个末地群系+Sky Dimension 转化史+1.9 末地扩展+1.13 群系 ID 重命名） | 🟢 完成 |
 | 20 | [`20-version-development-stories.md`](./20-version-development-stories.md) | 重大版本开发过程汇编（1.9 Combat Update 争议+1.15 Buzzy Bees+1.20 Trails & Tales+1.10-1.21 完整版本时间线） | 🟢 完成 |
 | 21 | [`21-c418-music-disc-stories.md`](./21-c418-music-disc-stories.md) | C418 唱片创作背景故事（22 张原版唱片+C418/Lena Raine/Aaron Cherof 作曲家+"13→11→5"数字递减+"far/ward/otherside/Creator/Relic/Tears/Precipice"音乐密码） | 🟢 完成 |
+| 22 | [`22-minecraft-events-experiences.md`](./22-minecraft-events-experiences.md) | Minecraft 衍生活动与体验汇编（Minecraft Now 月度直播+Minecraft Blast AR+Minecraft Experience: Villager Rescue+Minecraft World 主题乐园+A Minecraft Movie 2025+11 个衍生作品完整列表） | 🟢 完成 |
 
 ---
 
